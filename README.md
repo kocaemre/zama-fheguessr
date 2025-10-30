@@ -341,7 +341,7 @@ npm run test:integration
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Development Setup
 
@@ -371,7 +371,7 @@ This project was built for the Zama Developer Program, showcasing the power of F
 
 - **Documentation**: [docs.zama.ai](https://docs.zama.ai)
 - **Discord**: [Zama Community](https://discord.gg/zama)
-- **Issues**: [GitHub Issues](https://github.com/kocaemre/fhe-geoguessr/issues)
+- **Issues**: [GitHub Issues](https://github.com/kocaemre/zama-fheguessr/issues)
 
 ---
 
