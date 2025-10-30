@@ -2,7 +2,7 @@
 
 A privacy-preserving location guessing game built with **Fully Homomorphic Encryption (FHE)** using Zama's technology. Players guess locations from 360° panoramic views while their coordinates remain completely encrypted throughout the entire process, enabling fair competition without revealing sensitive location data.
 
-# DEMO https://youtu.be/gsYPBcCHhLw
+# [DEMO — YouTube](https://youtu.be/gsYPBcCHhLw)
 
 ## 🚀 Features
 
