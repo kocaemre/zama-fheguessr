@@ -260,7 +260,7 @@ npx hardhat deploy --network sepolia
 ### Environment Variables
 
 ```env
-# Zama Relayer Configuration
+# WalletConnect
 NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=xxxxxx
 
 # Blockchain Configuration
