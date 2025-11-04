@@ -377,6 +377,6 @@ This project was built for the Zama Developer Program, showcasing the power of F
 
 ---
 
-**Made with ❤️ and 🔐 by [Your Name]**
+**Made with ❤️ and 🔐 by Emre]**
 
 *Powered by Zama's Fully Homomorphic Encryption*
